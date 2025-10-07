@@ -6,6 +6,7 @@ Supports different day count conventions and coupon frequencies such as **monthl
 
 ---
 
+
 ## 🚀 Features
 
 * 🏦 **Government Bonds** using **30E/360** day-count basis
@@ -227,6 +228,18 @@ yeild11.185949814866483
 
 ---
 
+---
+📦 bond-pricing-js
+├── src/
+│ ├── BondPricer.js # Base class
+│ ├── government.js # Government bond class
+│ ├── corporate.js # Corporate bond class
+├── example.js # Example usage
+└── README.md # Documentation
+
+---
+
+
 ## ⚙️ Mathematical Concepts
 
 * **Yield to Maturity (YTM)** — Solved iteratively using **Newton-Raphson**
@@ -265,4 +278,6 @@ yeild11.185949814866483
 
 ## 🏁 License
 
+This project is licensed under the MIT License — see the LICENSE
+file for details.
 Feel free to use, modify, and distribute with attribution.
