@@ -1,6 +1,14 @@
-# 💰 Bond Pricing and Yield Calculator (JavaScript)
+# Bond Pricing Calculator in JavaScript
 
 A modular **bond pricing engine** implemented in JavaScript to compute **clean price**, **dirty price**, **accrued interest**, and **yield-to-maturity (YTM)** for both **Government** and **Corporate** bonds.
+A JavaScript-based bond pricing engine that calculates clean price, dirty price, yield-to-maturity (YTM), and accrued interest for government and corporate bonds.
+bond pricing in JavaScript
+
+bond yield calculator JS
+
+fixed income pricing code
+
+YTM JavaScript formula
 
 Supports different day count conventions and coupon frequencies such as **monthly**, **semi-annual**, and **annual**.
 
